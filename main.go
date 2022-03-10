@@ -5,7 +5,7 @@ import (
 	"encoding/xml"
 	"flag"
 	"fmt"
-	"git.garena.com/huanglh/junit-influx-client/pkg"
+	"github.com/luohuahuang/junit-influx-client/pkg"
 	"io/ioutil"
 	"os"
 )
